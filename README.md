@@ -2,10 +2,9 @@
 A beginner friendly stopwatch app with HTML, CSS and JavaScript
 
 ## Features
-- **Start/Stop Toggle:** Onebuutton toggles between starting and stoping the timer and it also continues.
+- **Start/Stop Toggle:** One buutton toggles between starting and stoping the timer and it also continues.
 - **Reset:** Resets the stopwatch to zero.
 - Displays elapsed time in hours, minutes, and seconds (`HH:MM:SS`)
-- Modern, centered design inspired by Behance
 - Responsive layout and digital clock-style display
 - Button hover effects
 
